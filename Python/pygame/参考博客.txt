@@ -1,0 +1,9 @@
+pygame库安装
+https://blog.csdn.net/fzlwyqn/article/details/79820395
+
+遇见问题
+1、PythonIDE操作import pygame成功，jupyter操作import pygame报错
+①anaconda安装Python版本3.6，pygame库对应Python版本3.7，增加anaconda支持Python版本
+http://www.cnblogs.com/harvey888/p/5465452.html
+②更新jupyter对应的Python版本
+https://www.cnblogs.com/lemonbit/p/7096541.html
